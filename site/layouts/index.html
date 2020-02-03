@@ -1,13 +1,21 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+<!-- {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }} -->
 
-{{ partial "short-text" .Params.blurb}}
+{{ partial "short-text"  .Params.blurb}}
 
-{{ partial "2-up" .Params }}
+{{ partial "hire-better" .Params.bring }}
 
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
+{{ partial "hire-better" .Params.work }}
 
-{{ partial "blog" . }}
+{{ partial "hire-better" .Params.communicate }}
+
+{{ partial "hire-better" .Params.interview }}
+
+{{partial "hire-better"  .Params.deliver }}
+
+{{partial "hire-better"  .Params.more }}
+
+{{ partial "short-text"  .Params.trial}}
 
 {{ end }}
