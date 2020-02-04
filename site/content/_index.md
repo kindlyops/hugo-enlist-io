@@ -61,41 +61,43 @@ interview:
     - image: /img/feedback.png
       heading: Score candidates
       text: "Score candidates against well-defined criteria so you can make better decisions, faster."
-deliver:
-    gray: false
-    heading: "Deliver a great candidate experience."
-    text: "Welcome your candidates with an experience that’s delightful. enlist helps you create a job board that matches your brand in no time."
-    items:
-    - text: "Accept applications anywhere—even on mobile"
-    - text: "Ask anything you want on your application forms"
-    - text: "Customize your careers site to match your brand and colors"
-    - text: "Embed jobs on your own website"
-    - text: "Get even more control with enlist's API"
+intro:
+  heading: Deliver a great candidate experience. 
+  description: Welcome your candidates with an experience that’s delightful. enlist helps you create a job board that matches your brand in no time.
+  blurbs:
+    - image: /img/illustrations-coffee.svg
+      heading: 
+      items: 
+        - • Accept applications anywhere—even on mobile
+        - • Ask anything you want on your application forms
+        - • Customize your careers site to match your brand and colors
+        - • Embed jobs on your own website
+        - • Get even more control with enlist's API
 more:
     gray: true
     heading: "Do a lot more."
     text: "It doesn't end there. enlist helps you with everything you want in an applicant tracking system."
     items:
     - heading: "Manage job openings efficiently"
-    - text: "Publish, pause, and close jobs easily. You have access to all you data even when the job is closed."
+      text: "Publish, pause, and close jobs easily. You have access to all you data even when the job is closed."
     - heading: "Bring your own workflows"
-    - text: "Your company is unique. So are your workflows. You can customize everything in enlist to suit your needs."
+      text: "Your company is unique. So are your workflows. You can customize everything in enlist to suit your needs."
     - heading: "Automate the repetitive work"
-    - text: "Set up stage-triggered actions to automate repetitive parts of your job pipeline, like sending emails or questionnaires."
+      text: "Set up stage-triggered actions to automate repetitive parts of your job pipeline, like sending emails or questionnaires."
     - heading: "Search for anything, quick"
-    - text: "Need to find a candidate who applied six months ago and had a specific word in their resume? Easy."
+      text: "Need to find a candidate who applied six months ago and had a specific word in their resume? Easy."
     - heading: "Work on several applications at once"
-    - text: "Move candidates to a different stage or email them at once with bulk actions."
+      text: "Move candidates to a different stage or email them at once with bulk actions."
     - heading: "Get organised with tags"
-    - text: "Organize applications better by tagging them. Mix and match tags to filter applications."
+      text: "Organize applications better by tagging them. Mix and match tags to filter applications."
     - heading: "Access Control"
-    - text: "When you bring your team members on board, you can decide who gets to see exactly what."
+      text: "When you bring your team members on board, you can decide who gets to see exactly what."
     - heading: "Export your data"
-    - text: "Export all your candidate data, including their resumes, anytime you want with a single click."
+      btext: "Export all your candidate data, including their resumes, anytime you want with a single click."
     - heading: "Get more information with questionnaires"
-    - text: "As candidates move through your pipeline, at times you may want some extra information from them. Questionnaires make that a breeze."
+      text: "As candidates move through your pipeline, at times you may want some extra information from them. Questionnaires make that a breeze."
     - heading: "Understand your hiring processes"
-    - text: "Find which sources are working the best for you, which parts of your job pipeline are slowing you down with actionable hiring reports."
+      text: "Find which sources are working the best for you, which parts of your job pipeline are slowing you down with actionable hiring reports."
 trial:
     gray: false
     heading: It's easy to get started.
