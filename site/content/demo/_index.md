@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Demo"
 logo: "/img/logo.svg"
 ---
  {{< demo >}}
