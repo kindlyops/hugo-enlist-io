@@ -93,7 +93,7 @@ more:
     - heading: "Access Control"
       text: "When you bring your team members on board, you can decide who gets to see exactly what."
     - heading: "Export your data"
-      btext: "Export all your candidate data, including their resumes, anytime you want with a single click."
+      text: "Export all your candidate data, including their resumes, anytime you want with a single click."
     - heading: "Get more information with questionnaires"
       text: "As candidates move through your pipeline, at times you may want some extra information from them. Questionnaires make that a breeze."
     - heading: "Understand your hiring processes"
@@ -103,4 +103,3 @@ trial:
     heading: It's easy to get started.
     text: Try enlist free for the first 14 days. No strings attached.
 ---
-
