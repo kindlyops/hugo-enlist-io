@@ -6,8 +6,16 @@
 		<div class="flex-ns flex-wrap mhn2-ns mb3">
 			{{ range .blurbs }}
 				<div class="ph2-ns w-50-ns mb4">
-					<img src="{{ .image }}" alt="" class="center db mb3" style="width: 240px">
-					<p>{{ .text }}</p>
+					<!-- <img src="{{ .image }}" alt="" class="center db mb3" style="width: 240px"> -->
+					<h3 class="f5 b lh-title mb2">{{ .heading }}</h3>
+					<ul>
+						{{ $itemCount := len .items }}
+						{{ range $index, $item := .items }}
+						<li>
+							<p class="{{ if ne (add 1 $index) $itemCount }} ma1 {{ end }}">{{ $item }}</p>
+						</li>
+						{{ end }}
+					</ul>
 				</div>
 			{{ end }}
 		</div>

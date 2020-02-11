@@ -2,20 +2,20 @@
 
 <!-- {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }} -->
 
-{{ partial "short-text"  .Params.blurb}}
+{{ partial "short-text"  .Params.blurb }}
 
 {{ partial "hire-better" .Params.bring }}
 
-{{ partial "hire-better" .Params.work }}
+{{ partial "text-blocks" .Params.work }}
 
 {{ partial "hire-better" .Params.communicate }}
 
 {{ partial "hire-better" .Params.interview }}
 
-{{partial "hire-better"  .Params.deliver }}
+{{ partial "4-up" .Params.intro }}
 
-{{partial "hire-better"  .Params.more }}
+{{ partial "text-blocks"  .Params.more }}
 
-{{ partial "short-text"  .Params.trial}}
+{{ partial "short-text"  .Params.trial }}
 
 {{ end }}
