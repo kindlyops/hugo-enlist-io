@@ -3,7 +3,7 @@ title: Do small businesses need an applicant tracking system?
 date: 2019-01-29
 description: >-
   Even today, it’s rare to find a small business that’s using an applicant tracking system. When it comes to hiring, for many small businesses, email and spreadsheets is still the way to go.
-image: /img/blog-chemex.jpg
+image:
 ---
 That makes sense too: those tools are familiar and easy to use for everyone. You probably also aren’t dealing with hundreds of applications every day, so it’s manageable too. That’s why small businesses and startups are often reluctant to invest in an applicant tracking system (ATS).
 
