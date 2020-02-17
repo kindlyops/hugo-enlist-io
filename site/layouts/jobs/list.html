@@ -10,7 +10,7 @@
           </div>
       {{ end }}
       
-      {{ range (.Paginator).Pages.ByPublishDate.Reverse }}
+      {{ range (.Paginator).Pages.ByTitle }}
           <div class="w-50-ns ph1-ns flex">
             {{ .Render "li"}}
           </div>
