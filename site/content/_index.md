@@ -65,7 +65,7 @@ intro:
   heading: Deliver a great candidate experience.
   description: Welcome your candidates with an experience that’s delightful. enlist helps you create a job board that matches your brand in no time.
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: 
       heading:
       items:
         - Accept applications anywhere—even on mobile
