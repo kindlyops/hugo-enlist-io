@@ -5,9 +5,11 @@
 <div class="mw7 center">
   <ul class="flex-ns flex-wrap mhn1-ns pa3">
       {{ range .Sections.ByParam "rating" }}
-          <div class="w-50-ns ph1-ns flex">
-            {{ .Render "li"}}
-          </div>
+          {{ if ne .Title "Job Description Templates" }}
+            <div class="w-50-ns ph1-ns flex">
+              {{ .Render "li"}}
+            </div>
+          {{ end }}
       {{ end }}
       
       {{ range (.Paginator).Pages.ByPublishDate.Reverse }}
