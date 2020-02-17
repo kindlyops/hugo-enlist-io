@@ -31,7 +31,7 @@
   <ul class="flex-ns flex-wrap mhn1-ns pa3">
   {{ range  .Pages}}
     {{ if eq .Title "Job Description Templates" }}
-      <div class="w-50-ns ph1-ns flex">
+      <div class="flex-ns flex-wrap mhn1-ns pa3">
         {{ range .Data.Pages }}
           {{ .Render "li"}}
         {{end }}
