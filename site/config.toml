@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
-title = "New Homepage"
+title = "enlist.io | Remote Work ATS"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
