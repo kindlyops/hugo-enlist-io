@@ -1,10 +1,10 @@
 ---
-title: "enlist.io"
+title: "Hire Remote"
 subtitle: Remote Workforce ATS
 image: /img/home-jumbotron.jpg
 blurb:
   gray: true
-  heading: Hire Better.
+  heading: Hire Remote.
   text: "enlist is an applicant tracking system that brings your hiring back in control. Collaborate with your team, communicate with your candidates, get more out of your interviews, automate what's repetitive, and make better decisions."
 bring:
   gray: false
