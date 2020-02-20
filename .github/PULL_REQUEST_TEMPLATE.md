@@ -8,7 +8,7 @@ What existing problem does the pull request solve?
 **- Test plan**
 
 <!--
-Demonstrate the code is solid.
+Explain how to see the code changes are working.
 Example: The exact commands you ran and their output, screenshots / videos if the pull request changes UI.
 -->
 
