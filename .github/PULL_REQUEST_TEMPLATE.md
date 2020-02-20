@@ -1,16 +1,3 @@
-<!--
-Thanks for submitting a pull request!
-
-Please make sure you've read and understood our contributing guidelines;
-https://github.com/netlify/victor-hugo/blob/master/CONTRIBUTING.md
-
-If this is a bug fix, make sure your description includes "fixes #xxxx", or
-"closes #xxxx", where #xxxx is the issue number.
-
-Please provide enough information so that others can review your pull request.
-The first three fields are mandatory:
--->
-
 **- Summary**
 
 <!--
@@ -25,11 +12,9 @@ Demonstrate the code is solid.
 Example: The exact commands you ran and their output, screenshots / videos if the pull request changes UI.
 -->
 
-**- Description for the changelog**
+**- A picture of a cute animal (not mandatory but encouraged)**
 
 <!--
-Write a short (one line) summary that describes the changes in this
-pull request for inclusion in the changelog:
--->
+https://unsplash.com/s/photos/cute-animal
 
-**- A picture of a cute animal (not mandatory but encouraged)**
+-->
