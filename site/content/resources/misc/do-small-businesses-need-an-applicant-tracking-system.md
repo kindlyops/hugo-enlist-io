@@ -32,7 +32,7 @@ Even as a small business, if you advertise job openings on multiple job boards, 
 An ATS can help you uncover these insights and that can prove valuable as you grow. In tangible terms, it will also help you save money. If you're spending a lot on a particular job board, it's sending you a ton of applications, but none of them seem to move past the first couple of stages, is it really worth the time and effort?
 
 #### Improved compliance
-An ATS can help you deal with compliance better. Even as a small business, you have to deal with regulations such as the [GDPR](#this-needs-to-point-to-GDPR-page) which involves dealing with candidate data with extra caution, making sure you’re retaining data for only as long as you need, giving candidates the option to access, modify, and delete their data. It’s near impossible to be diligent with candidate data that’s spread over email, so an applicant tracking system is a big win here.
+An ATS can help you deal with compliance better. Even as a small business, you have to deal with regulations such as the [GDPR](/gdpr) which involves dealing with candidate data with extra caution, making sure you’re retaining data for only as long as you need, giving candidates the option to access, modify, and delete their data. It’s near impossible to be diligent with candidate data that’s spread over email, so an applicant tracking system is a big win here.
 
 Similarly, for things like EEO reporting, an ATS can be of definite help. It can help you collect data and prepare reports with relative ease.
 
