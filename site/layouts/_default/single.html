@@ -1,7 +1,7 @@
 {{ define "main" }}
 
     {{ partial "jumbotron" (dict  "title" .Title "subtitle" .Params.subtitle) }}
-    <div class="cms ph3 mw7 center">
+    <div class="cms ph3 mw7 pb5 center">
      {{ .Content }}
     </div>
 {{ end }}
