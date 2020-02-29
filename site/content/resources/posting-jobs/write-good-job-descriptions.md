@@ -47,7 +47,7 @@ Apart from the salary, it's a great idea to list all the benefits that you offer
 Just like a candidate’s cover letter is (often) your first impression of them, your job descriptions is their first impressions of you. So, it’s important to proofread your job description before posting to make sure you haven’t left out critical details or made other small mistakes.
 
 ---
-If you're hiring for several positions, a recruitment software like [enlist](https://enlist.io/) can be helpful. [Sign up for a 30 day free trial](#this-needs-to-be-the-sign-up-page-url), or get in touch with us for a demo.
+If you're hiring for several positions, a recruitment software like [enlist](https://enlist.io/) can be helpful. [Sign up for a free trial](https://hire.enlist.io/signup), or get in touch with us for a [demo](/demo).
 
 __
 
