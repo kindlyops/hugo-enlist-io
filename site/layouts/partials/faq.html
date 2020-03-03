@@ -1,0 +1,19 @@
+
+<div class="tc mt4 pa4">
+    <h class= "f4 b">Frequently Asked Questions</h>
+    
+    <div class="tl ma3">
+        {{ range .questions }}
+            <div>
+                <ul>
+                    <li>
+                        <p class="b">{{.question}}</p>
+                    </li>
+                    <li>
+                        <p>{{.answer}}</p>
+                    </li>
+                </ul>
+            </div>
+        {{ end }}
+    </div>
+</div>

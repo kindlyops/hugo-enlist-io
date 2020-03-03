@@ -103,7 +103,7 @@ Migrating your existing data can be tricky. It depends largely on what you want 
  #### Conclusion
 Choosing a new applicant tracking system—or moving to a different one—can be daunting. There's a lot to think of. It's an important choice for any growing business, so it's just as important to take your time and evaluate a few different systems and see what each one of them has to offer.
 
-We hope this guide helped! At enlist, we can help you make the process seamless, whether you're trying an applicant tracking system for the first time or moving from some software. Interested in trying us out? [Sign up yourself](#This_will_link_to_the_sign_up_page), or if you have any questions, [let us know](/demo).
+We hope this guide helped! At enlist, we can help you make the process seamless, whether you're trying an applicant tracking system for the first time or moving from some software. Interested in trying us out? [Sign up yourself](https://hire.enlist.io/signup), or if you have any questions, [let us know](/demo).
 
 __
 
