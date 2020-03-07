@@ -36,7 +36,7 @@ Now that you have the details, it's time to make it easy for your team to (a) kn
 A good job description is always helpful, in this case not only for candidates but also your own team. When your employees understand the role well, they are able to make better recommendations. So, the first thing to take care of is a [good, detailed job description](/resources/posting-jobs/write-good-job-descriptions) that lists all the qualities you want (and all that you don't).
 
 #### Make it easy for referrers to track status
-You also need a way for your employees to actually refer candidates, track their progress, and for you to track employee referrals all in one place. A good [referral tracking system](https://enlist.io/) can be really helpful, but even if you don't have one, a simple spreadsheet should be sufficient for a start.
+You also need a way for your employees to actually refer candidates, track their progress, and for you to track employee referrals all in one place. A good [referral tracking system](/) can be really helpful, but even if you don't have one, a simple spreadsheet should be sufficient for a start.
 
 It's important to keep employees who refer other candidates in the loop. Let them know the status of their referrals, or better yet, use something that can allow them to track status on their own. Even if you don't end up hiring a referral, it's important to thank the people who are sending these referrals your way. Even better if you can send them a small gift for referring other people.
 
@@ -49,7 +49,7 @@ Beyond that, you should also consider offering a monetary reward to your best re
 
 Want to get creative? Look for other companies’ referral programs to get some ideas. For example, [DigitalOcean pays a $3500 referral bonus and a $1500 donation to a charity of the referrer’s choice.](https://brightfunds.blog/2017/09/06/digitalocean-case-study/) Google’s employee referral strategy is [even more interesting](https://www.inc.com/robbie-abed/google-spent-3-years-finding-out-how-to-get-more-employees-to-refer-new-candidates-heres-what-they-learned.html) and has a lot of lessons applicable to even smaller businesses.
 
-Once you have your referral program running, it's important to review it and make improvements on a regular basis. Take a look at how many referrals you are generating and how many are getting hired. Find out what your team feels about it. An easy way would to get your team’s feedback would be to quickly survey your team. There are tools that can help with this, but your [applicant tracking system](https://enlist.io/) can also do the job for you.
+Once you have your referral program running, it's important to review it and make improvements on a regular basis. Take a look at how many referrals you are generating and how many are getting hired. Find out what your team feels about it. An easy way would to get your team’s feedback would be to quickly survey your team. There are tools that can help with this, but your [applicant tracking system](/) can also do the job for you.
 
 Employee referral programs may sound daunting but they aren't. In fact, a good referral program can give you a great return for the time (and money!) you invest, perhaps better than any other channel.
 

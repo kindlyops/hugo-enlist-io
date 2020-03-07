@@ -24,7 +24,7 @@ Every job will have a different process but you must make sure that anyone apply
 #### Automate
 Every hiring process has a lot of grunt work that could easily be automated. Think about the thank you e-mails you send to candidates, the interview schedule requests, the review requests to your interviewers... all those are steps that are better automated.
 
-More advanced [hiring software](https://enlist.io/) will allow to you create workflows that can automate parts of your hiring. Adopting such a software when you're hiring at scale is a good idea.
+More advanced [hiring software](/) will allow to you create workflows that can automate parts of your hiring. Adopting such a software when you're hiring at scale is a good idea.
 
 It's important, however, to not take automation to its extremes. It's generally a bad idea to reject applications based on certain triggers. Unless you absolutely cannot work without a certain credential or a certain requirement, it is better to screen people manually even if it takes a bit more time.
 

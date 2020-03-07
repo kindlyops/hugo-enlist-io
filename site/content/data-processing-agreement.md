@@ -19,7 +19,7 @@ Any capitalised term not defined in this DPA shall have the meaning given to it 
 
 “Processor”	means Kindly Ops LLC;
 
-“Security Documentation”	means the security documents located at https://enlist.io/security as amended from time to time, or as otherwise made available by the Processor to the Controller;
+“Security Documentation”	means the security documents located at [https://enlist.io/security](/security) as amended from time to time, or as otherwise made available by the Processor to the Controller;
 
 “Standard Contractual Clauses”	means the EU model clauses for Personal Data transfer from controllers to processors c2010-593 - Decision 2010/87EU;
 
@@ -78,7 +78,7 @@ All Sub-processors who process Personal Data in the provision of the Services to
 
 Where Sub-processors are located outside of the EEA, the Processor confirms that such Sub-processors: (i) are located in a third country or territory recognised by the EU Commission to have an adequate level of protection; or (ii) have entered into Standard Contractual Clauses with the Processor; or (iii) have other legally recognised appropriate safeguards in place, such as the EU-US Privacy Shield or Binding Corporate Rules.
 
-The Processor shall make available to the Controller the current list of Sub-processors (at https://enlist.io/subprocessors) which shall include the identities of Sub-processors and their country of location. During the term of this DPA, the Processor shall provide the Controller with at least 14 days prior notification, via email (or in-application notice), of any changes to the list of Sub-processor(s) who may process Personal Data before authorising any new or replacement Sub-processor(s) to process Personal Data in connection with the provision of the Services.
+The Processor shall make available to the Controller the current list of Sub-processors (at [https://enlist.io/subprocessors](/subprocessors)) which shall include the identities of Sub-processors and their country of location. During the term of this DPA, the Processor shall provide the Controller with at least 14 days prior notification, via email (or in-application notice), of any changes to the list of Sub-processor(s) who may process Personal Data before authorising any new or replacement Sub-processor(s) to process Personal Data in connection with the provision of the Services.
 
 If the Controller objects to a new or replacement Sub-processor the Controller may terminate the Terms of Use with respect to those Services which cannot be provided by the Processor without the use of the new or replacement Sub-processor. The Processor will refund the Controller any prepaid fees covering the remainder of the Term of the Terms of Use following the effective date of termination with respect to such terminated Services.
 

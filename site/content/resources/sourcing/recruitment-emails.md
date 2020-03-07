@@ -57,7 +57,7 @@ Once you've sent an email, it's important to follow up if required after a few d
 Try to keep follow up emails to two at most. If someone hasn't responded after a couple of followups, it's safe to assume that they probably aren't interested. That obviously doesn't mean that the door is shut forever: you might get a response some time later!
 
 #### Use software to complement your work
-Doing all of this by yourself can be tedious. A [recruitment software](https://enlist.io/) can help remove some of the more repetitive tasks and it can complement your work too. It can make it easier for you to review someone's profile, to follow up with them at the right time, and even write better emails.
+Doing all of this by yourself can be tedious. A [recruitment software](/) can help remove some of the more repetitive tasks and it can complement your work too. It can make it easier for you to review someone's profile, to follow up with them at the right time, and even write better emails.
 
 Like most other things, writing a great recruitment email will take time, practice, and a lot of experimentation. You aren't going to find your voice in the first go, but a few tries and you should be set.
 

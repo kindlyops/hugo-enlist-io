@@ -23,7 +23,7 @@ As a recruitment specialist you will be responsible for sourcing candidates, ass
  * Bachelor's degree in business or a related field
  * Previous experience in the recruitment industry or a HR position
  * Working knowledge of MS Office applications like Outlook, Word and Excel
- * Familiarity with [Application Tracking Systems](https://enlist.io/) (ATS)
+ * Familiarity with [Application Tracking Systems](/) (ATS)
  * Excellent written and verbal communication skills
  * Willingness to travel and meet with candidates and clients
  * Extensive knowledge of various industries and related jobs
