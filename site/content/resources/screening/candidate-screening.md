@@ -28,7 +28,7 @@ What should you look for when screening candidates by their resumes? It's a good
  * Are there any references? Some resumes may have these, but it's more common to get references at a later stage when you actually ask for them.
  * Is there anything else that stands out? There are candidates who may have an unusual career path but they may be standout performers in the right environment. If there are skills on the resume that stand out otherwise, that may be worth looking at.
 
-In the recent years, [applicant tracking systems](https://enlist.io/) have evolved to offer automated resume screening, a technique in which these systems look for certain keywords in a candidate's resume and automatically reject them if they don't find those keywords.
+In the recent years, [applicant tracking systems](/) have evolved to offer automated resume screening, a technique in which these systems look for certain keywords in a candidate's resume and automatically reject them if they don't find those keywords.
 
 In theory, it sounds great: it saves you a lot of time and you don't get any irrelevant applications. In practice, it doesn't work so well. As a technique, it isn't perfect. There are a lot of false negatives, a lot of false positives, and you end up losing a lot of good, well-suited candidates too.
 

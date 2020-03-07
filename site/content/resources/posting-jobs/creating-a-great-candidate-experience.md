@@ -37,7 +37,7 @@ It's not possible to give feedback to everyone who applies, especially if you ha
 Nobody likes rejection. By telling them what they could have done better, you ensure that they get some value out of the time they spent interviewing with your company.
 
 #### Ask for feedback
-No process is perfect. Despite your best intentions, you may end up missing something. By asking for feedback, you give yourself much better visibility into the problems your candidates are facing. Sending a quick survey with your [applicant tracking system](https://enlist.io/) should be straightforward.
+No process is perfect. Despite your best intentions, you may end up missing something. By asking for feedback, you give yourself much better visibility into the problems your candidates are facing. Sending a quick survey with your [applicant tracking system](/) should be straightforward.
 
 Over time, you can iteratively improve the experience to a point where it's near-perfect.
 

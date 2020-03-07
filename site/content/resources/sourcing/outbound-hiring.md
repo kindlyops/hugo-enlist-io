@@ -15,7 +15,7 @@ There are several ways to go about this. One of the best that we have found is t
 
 Another good way is to look at social media sites, like Twitter and LinkedIn. You could send candidates that are interested an InMail. There are other great options when you're looking for designers or developers. Github is great for finding people who have worked with a certain technology and Dribbble is a great resource for finding designers.
 
-Beyond these two, you could always look for sourcing sites (such as [Sourcing.io](https://sourcing.io/)). There are many options out there, even if you're looking for roles that are traditionally difficult to fill. Your [applicant tracking system](https://enlist.io/) may have integrations that allow you to import candidates with one click.
+Beyond these two, you could always look for sourcing sites (such as [Sourcing.io](https://sourcing.io/)). There are many options out there, even if you're looking for roles that are traditionally difficult to fill. Your [applicant tracking system](/) may have integrations that allow you to import candidates with one click.
 
 Once you have put together a list of a few people you think might be a good fit, what next?
 

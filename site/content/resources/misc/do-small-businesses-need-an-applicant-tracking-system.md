@@ -43,5 +43,5 @@ Using an applicant tracking system from early in your company’s history can al
 
 As you can see, there are several reasons why a small business can benefit from an applicant tracking system just as well as a medium sized or a large business. For most small businesses, though, there are two major concerns: affordability and the ease of use. You don’t want to get locked in with a contract that costs an arm and a leg and you definitely don’t want a cumbersome, hard to use product which nobody on your team likes.
 
-Fortunately, you have great options in today’s world. Many applicant tracking systems (like [enlist](https://enlist.io/)) are priced per job which means that they scale as you add jobs. They are also built for small businesses which means they are easy and quick to get started with, and easy to use.
+Fortunately, you have great options in today’s world. Many applicant tracking systems (like [enlist](/)) are priced per job which means that they scale as you add jobs. They are also built for small businesses which means they are easy and quick to get started with, and easy to use.
 
