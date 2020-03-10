@@ -3,7 +3,6 @@ title: "Hire Remote"
 subtitle: Remote Workforce ATS
 image: /img/home-jumbotron.jpg
 blurb:
-  gray: true
   heading: Hire Remote.
   text: "enlist is an applicant tracking system that brings your hiring back in control. Collaborate with your team, communicate with your candidates, get more out of your interviews, automate what's repetitive, and make better decisions."
 bring:
@@ -65,8 +64,7 @@ intro:
   heading: Deliver a great candidate experience.
   description: Welcome your candidates with an experience that’s delightful. enlist helps you create a job board that matches your brand in no time.
   blurbs:
-    - image: 
-      heading:
+    - heading:
       items:
         - Accept applications anywhere—even on mobile
         - Ask anything you want on your application forms
@@ -99,7 +97,6 @@ more:
     - heading: "Understand your hiring processes"
       text: "Find which sources are working the best for you, which parts of your job pipeline are slowing you down with actionable hiring reports."
 trial:
-  gray: false
   heading: It's easy to get started.
   text: Try enlist free for the first 14 days. No strings attached.
 ---
