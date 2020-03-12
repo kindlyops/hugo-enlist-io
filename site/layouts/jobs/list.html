@@ -1,8 +1,11 @@
 {{ define "main" }}
 
 {{ partial "jumbotron" (dict "title" .Title) }}
+<div class="cms pa4">
+  {{ .Content }}
+</div>
 
-<div class="mw7 center">
+<div class="cms mw7 center">
   <ul class="flex-ns flex-wrap mhn1-ns pa3">
       {{ range .Sections.ByParam "rating" }}
           <div class="w-50-ns ph1-ns flex">
@@ -17,8 +20,5 @@
       {{ end }}
   </ul>
   {{ partial "pagination" . }}
-</div>
-<div class=" cms ph3 mw7 center">
-  {{ .Content}}
 </div>
 {{end}}

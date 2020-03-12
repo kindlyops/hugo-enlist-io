@@ -2,7 +2,7 @@
 Title: Terms of Use
 subtitle: "Effective: May 24, 2008"
 ---
-These Terms and Conditions ("Terms", "Terms and Conditions") govern your relationship with https://enlist.io website, our SaaS applications, and the Enlist mobile application, (the "Service") operated by Kindly Ops LLC ("us", "we", or "our").
+These Terms and Conditions ("Terms", "Terms and Conditions") govern your relationship with [https://enlist.io](/) website, our SaaS applications, and the Enlist mobile application, (the "Service") operated by Kindly Ops LLC ("us", "we", or "our").
 
 Please read these Terms and Conditions carefully before using the Service.
 

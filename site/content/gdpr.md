@@ -1,6 +1,10 @@
 ---
 Title: GDPR
 ---
+- [Security](/security)
+- [Data Processing Agreement](/data-processing-agreement)
+- [Subprocessors](/subprocessors)
+
 On May 25, 2018, the General Data Protection Regulation [(GDPR)](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) went into effect. It’s a legislation that gives residents of the European Union more control over their data. It applies to you if you deal with the personal data of EU citizens, even if your business does not have a physical presence in the EU.
 
 #### Our GDPR Commitment

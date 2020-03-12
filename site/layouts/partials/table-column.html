@@ -1,5 +1,5 @@
-<div class="br1 ba shadow-5 b--black-10">
-	<div class="br1 white bg-primary br--top pb4">
+<div class="ba br1 shadow-5 b--black-10">
+	<div class="white bg-primary br--bottom pb4">
 		<!-- Title -->
 		<h3 class="b f5 tc lh-title mb3 pt3">{{.plan}}</h3>
 
@@ -14,17 +14,19 @@
 			class="btn raise">Start a free trial </a>
 		</div>
 	</div>
-	<!-- Description -->
-	<p class="mt3 b tc">{{.description}}</p>
+	<div class="bg-off-white pt1 pb1 br--top">
+		<!-- Description -->
+		<p class="mt3 b tc">{{.description}}</p>
 
-	<!-- Features -->
-	<ul class="tc">
-		{{ $itemCount := len .items }}
-		{{ range $index, $item := .items }}
-		<li>
-			<p class="{{ if ne (add 1 $index) $itemCount }}pb2 mb2 {{ end }}">{{ $item }}</p>
-		</li>
-		{{ end }}
-	</ul>
+		<!-- Features -->
+		<ul class="tc">
+			{{ $itemCount := len .items }}
+			{{ range $index, $item := .items }}
+			<li>
+				<p class="{{ if ne (add 1 $index) $itemCount }}pb2 mb2 {{ end }}">{{ $item }}</p>
+			</li>
+			{{ end }}
+		</ul>
+	</div>
 
 </div>

@@ -1,8 +1,11 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "title" .Title) }}
-
-<div class="mw7 center">
+{{ partial "jumbotron" (dict "title" .Title "subtitle" .Params.subtitle) }}
+<!-- Content is defined in /resources/index.md -->
+{{ .Content }}
+<!-- Resource Categories -->
+<div class="cms mw7 center">
+  <h2 class="tc">Categories</h2>
   <ul class="flex-ns flex-wrap mhn1-ns pa3">
       {{ range .Sections.ByParam "rating" }}
           {{ if ne .Title "Job Description Templates" }}
@@ -19,26 +22,26 @@
   </ul>
   {{ partial "pagination" . }}
 </div>
-<div class=" cms ph3 mw7 center">
+<!-- Job Description Templates Navigation -->
+<div class="cms mw7 center">
   {{ range .Sections.ByParam "rating" }}
     {{ if eq .Title "Job Description Templates" }}
-      <h3>{{ .Title }}</h3>
-      <div class="w-50-ns ph1-ns flex">
-        <p>Customizable job description templates for all kinds of jobs.</p>
+      <div class="tc pa3">
+        <h2>{{ .Title }}</h2>
+        <p class="center">Customizable job description templates for all kinds of jobs.</p>
       </div>
     {{ end }}
   {{ end }}
   <ul class="flex-ns flex-wrap mhn1-ns pa3">
-  {{ range  .Pages}}
-    {{ if eq .Title "Job Description Templates" }}
-      <div class="flex-ns flex-wrap mhn1-ns pa3">
+    {{ range  .Pages}}
+      {{ if eq .Title "Job Description Templates" }}
         {{ range .Data.Pages }}
-          {{ .Render "li"}}
+          <div class="w-50-ns ph1-ns flex">
+            {{ .Render "li"}}
+          </div>
         {{end }}
-      </div>
+      {{ end }}
     {{ end }}
-  {{ end }}
   </ul>
-  {{ .Content}}
 </div>
 {{end}}

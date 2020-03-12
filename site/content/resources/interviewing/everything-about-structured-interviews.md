@@ -36,7 +36,7 @@ b) Cover both the breadth and depth of a topic. A lot of interviews glance over 
 
 When you can, set up a context, lead with a question and ask follow-up questions. Doing so will help you understand the candidate's thought process better.
 
-\* Don't leave your interviewers out in the cold. Tell them what to ask and, when possible, tell them how to rate answers. Often, if you leave it to the interviewers, there will be a large variance in how two different interviewers rate similar answers.
+* Don't leave your interviewers out in the cold. Tell them what to ask and, when possible, tell them how to rate answers. Often, if you leave it to the interviewers, there will be a large variance in how two different interviewers rate similar answers.
 
 There are a couple of things to keep in mind here. One, while you want comprehensive feedback, it's better not to make every interview long drawn. Asking twenty different questions at every stage just leads to indirection. Two, you need to consistently review your interview questions and improve them. No interview process is going to be perfect from the start.
 
