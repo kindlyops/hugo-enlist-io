@@ -5,8 +5,9 @@
 
     {{ block "header" . }}{{ partial "nav" . }}{{end}}
 
-    {{ block "main" . }}{{ end }}
-
+    <div class="main-content">
+      {{ block "main" . }}{{ end }}
+    </div>
     {{ block "footer" . }}{{ partial "footer" . }}{{end}}
 
     {{ $script := .Site.Data.webpack.main }}
