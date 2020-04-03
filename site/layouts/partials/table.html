@@ -9,14 +9,14 @@
 			<div>
 				<h2 class="f3 b mb3 tc">Every Plan Includes</h2>
 				
-				<div class="fl pl5">
+				<div class="fl pl5-ns">
 				<p class="f4 tl">&check; Branded Careers Site</p>
 				<p class="f4 tl">&check; Customisable Job Pipelines</p>
 				<p class="f4 tl">&check; Incoming & Outgoing Emails</p>
 				<p class="f4 tl">&check; Forms & Email Templates</p>
 				<p class="f4 tl">&check; Reporting & Analytics</p>
 				</div>
-				<div class="fl pl5">
+				<div class="fl pl5-ns">
 				<p class="f4 tl">&check; Integrations</p>
 				<p class="f4 tl">&check; Scorecards</p>
 				<p class="f4 tl">&check; Job Board Syndication</p>
@@ -26,7 +26,7 @@
 			</div>	
 		</article>
 
-		<div class="flex-ns pa3 mhn2-ns mw7">
+		<div class="center flex-ns pa3 mhn2-ns mw7">
 			{{ range .plans }}
 			<div class="w-33-ns pa3">{{ partial "table-column" . }}</div>
 			{{ end }}

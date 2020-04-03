@@ -86,3 +86,22 @@
 
 /* Uncomment out the line below to help debug layout issues */
 /*@import './imports/_debug';*/
+
+
+/* This fixes the white space under the footer */
+html, body {
+    height: 100%;
+}
+body {
+    display: flex;
+    flex-direction: column;
+}
+.main-content {
+    flex: 1 0 auto;
+}
+.footer {
+    flex-shrink: 0;
+}
+html {
+    background-color: var(--off-white);
+}
