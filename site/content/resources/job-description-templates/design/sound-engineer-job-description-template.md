@@ -1,7 +1,7 @@
 ---
 type: jobs
 Title: Sound Engineer Job Description Template
-alaises:
+aliases:
   - /resources/sound-engineer-job-description-template
 ---
 
