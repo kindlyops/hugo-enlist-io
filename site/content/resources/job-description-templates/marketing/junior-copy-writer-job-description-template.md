@@ -2,7 +2,7 @@
 type: jobs
 Title: Junior Copy Writer Job Description Template
 aliases:
-  - /resources/junior-copy-writer-job-description-templates
+  - /resources/junior-copy-writer-job-description-template
 ---
 
 We are looking for talented word weavers with a eye for detail and a flair for eloquence. You will be joining our small but talented group of creatives fuelled by caffeine and passion. You will be mired in exciting and unique challenges. You will be designing marketing campaigns, editing copy, and polishing words to ultimately see them shine on the web and beyond.
