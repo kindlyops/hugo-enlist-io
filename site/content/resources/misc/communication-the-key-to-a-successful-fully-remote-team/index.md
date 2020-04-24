@@ -5,6 +5,7 @@ date: 2020-02-17
 description: >-
  The workforce of the future will be fully remote.  Everyone working together but separate, successfully working on project after project while never actually being in the same office or even the same country.
 ---
+
 This may sound counter-intuitive to team success however many studies have found that this way of working actually helps teams become more productive.  Without the endless meetings and the demands of inter-office social politics the remote team of today find that their relationships with their co-workers are based on more than just proximity, they are based on trust. Good and effective communication is the foundation of that trust.
 
 #### Barriers to Communication
@@ -20,7 +21,6 @@ But what about the small team or start up that is fully remote but doesn’t hav
 While not every team is the same there is a universal benchmark.  Do you have trust between team members?  Do you have a team that is not afraid to put something out there without first worrying about what their co-workers will think?  If you can say yes to those questions then you have trust between you and your team members.  That is the foundation and gold standard for good communication.  
 
 A fully remote team may not have some of the barriers that traditional teams have but that does not mean they inherently have trust between one another.  Good communication built on trust needs to be developed and cultivated.  Tools can help this process, but in the end it is up to each member of your team to foster the environment needed for good communication.  It may take some time, but the effort will reap huge dividends.
-
 
 
 
