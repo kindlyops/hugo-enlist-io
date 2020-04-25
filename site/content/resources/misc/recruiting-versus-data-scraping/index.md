@@ -1,11 +1,10 @@
 ---
 title: Recruiting Versus Data Scraping
-image: /img/recruiter_or_data_scraper.jpg
 date: 2020-04-13
-description: >-
-  Recruiting good candidates is more than just scraping data off of the web...but you wouldn’t know it by looking at the current state of hiring practices by most HR professionals and recruiters today.
 ---
+{{< img src="recruiter_or_data_scraper.jpg" alt="" >}}
 
+Recruiting good candidates is more than just scraping data off of the web...but you wouldn’t know it by looking at the current state of hiring practices by most HR professionals and recruiters today.
 Technology is moving at an incredible pace and so is business, but for many, their hiring practices are not matching suit. Instead of adopting new software, new techniques the glut of educational material for recruiters are focused on installing outdated chrome extensions to scrape contact data and profile information in mass quantities. Innovation is a word that is banded about by recruiters but in reality, it is far from the truth.
 
 #### Recruiting Today

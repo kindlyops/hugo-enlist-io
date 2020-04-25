@@ -1,10 +1,10 @@
 ---
 title: "Remote Workforce: Avoid Burnout While Working From Home"
-image: /img/avoiding-burnout-remote-workforce.jpg
 date: 2020-04-06
-description: >-
- As the world has embraced remote work, what was once a new and novel idea has become normal.  For some of us experiencing remote work-life for the first time, we are approaching a month into our new routines.  As humans we find comfort in our routines, we find security in our routines.  Right now we are all looking for comfort and security, but is too much of a good routine damaging? 
 ---
+{{< img src="avoiding-burnout-remote-workforce.jpg" alt="" >}}
+
+As the world has embraced remote work, what was once a new and novel idea has become normal.  For some of us experiencing remote work-life for the first time, we are approaching a month into our new routines.  As humans we find comfort in our routines, we find security in our routines.  Right now we are all looking for comfort and security, but is too much of a good routine damaging?
 While throwing ourselves into work can help us alleviate the anxiety of the current world situation, burn out is real.  Burn out can creep up on us and damage our mental and physical health.  How can you avoid overwork in your new routine?  And what does a healthy work-life balance look like?
 
 #### Overwork

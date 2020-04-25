@@ -1,13 +1,10 @@
 ---
 title: How To Write Great Recruitment Emails
 date: 2018-11-21
-description: >-
-  One constant in a recruiter's life is recruitment emails, a lot of them. No matter what stage you're at, when you are sourcing candidates, you will have to be able to write great recruitment emails. That's not a surprise either: even with the rapid evolution of social media, email remains one of the most powerful ways to communicate with candidates. It's estimated that the number of emails being sent every day will reach 246 billion by the end of 2019.
-image: #
 aliases:
   - /resources/recruitment-emails
 ---
-
+One constant in a recruiter's life is recruitment emails, a lot of them. No matter what stage you're at, when you are sourcing candidates, you will have to be able to write great recruitment emails. That's not a surprise either: even with the rapid evolution of social media, email remains one of the most powerful ways to communicate with candidates. It's estimated that the number of emails being sent every day will reach 246 billion by the end of 2019.
 Having said that, there are several challenges when you'll face you are trying to come up with a strategy to send recruitment emails. To begin with, everyone is busy. We all receive hundreds of emails every day, and getting someone's attention is difficult. Second, it's important to personalise: impersonal, poorly crafted emails sent to the wrong people, with all kinds of avoidable mistakes, are all too common. And when an email is your first point of communication with a candidate, a poorly crafted one leaves a long (and perhaps lasting) impression.
 
 Fortunately, with a few basics in place, you can improve your recruitment emails a lot. Let's talk about some of the most important things you need to take care of.

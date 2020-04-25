@@ -1,14 +1,11 @@
 ---
 title: Everything About Structured Interviews
 date: 2018-03-31
-description: >-
-  Interviewing well is difficult. It's also a critically important part of your hiring process. A poor interviewing process directly results in substandard hires.
-  What can you do to improve your interviews? A lot, in fact.
-image: #
 aliases:
   - /resources/everything-about-structured-interviews
 ---
-
+Interviewing well is difficult. It's also a critically important part of your hiring process. A poor interviewing process directly results in substandard hires.
+  What can you do to improve your interviews? A lot, in fact.
 In this article, we will look at one way you can improve your interviews: by structuring them. Usually, interviews aren't planned. They are mostly based on instincts. Your first impression of the candidate often defines what course the interview will take. It's often inefficient and plain lazy. It doesn't matter how rigorous your hiring process is; if it's not structured, you're going to see wide variance in the results.
 
 #### What are structured interviews?

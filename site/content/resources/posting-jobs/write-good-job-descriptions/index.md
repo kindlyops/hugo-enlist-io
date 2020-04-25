@@ -1,13 +1,10 @@
 ---
 title: How To Write Good Job Descriptions
 date: 2019-05-01
-description: >-
-  Job descriptions are a candidate's first real interaction with your company. A good job description goes a long way in engaging candidates, explaining the opportunity, and encouraging the right candidates to apply to the job.
-image: #
 aliases:
   - /resources/write-good-job-descriptions
 ---
-
+Job descriptions are a candidate's first real interaction with your company. A good job description goes a long way in engaging candidates, explaining the opportunity, and encouraging the right candidates to apply to the job.
 Yet, poor job descriptions are extremely common. If you put a little effort in writing good job descriptions, you can stand out as an employer and attract better candidates. What makes a good job description? Several things. Let's take a look at them one by one.
 
 #### Start with the job title

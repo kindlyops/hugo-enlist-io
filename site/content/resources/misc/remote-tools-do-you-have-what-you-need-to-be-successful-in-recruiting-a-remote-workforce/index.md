@@ -1,10 +1,10 @@
 ---
 title: "Remote Tools - Do you have what you need to be successful in recruiting a Remote Workforce"
-image: /img/remote-workforce-toolkit.jpg
 date: 2020-02-03
-description: >-
- A remote-first workforce is becoming the new business standard in hiring today.  No longer a bastion for digital nomads or old school coders, as we head into a possible recession companies are streamlining costs.
 ---
+{{< img src="remote-workforce-toolkit.jpg" alt="" >}}
+
+A remote-first workforce is becoming the new business standard in hiring today.  No longer a bastion for digital nomads or old school coders, as we head into a possible recession companies are streamlining costs.
 Overhead for real-estate, desks, chairs and all the other physical aspects of the typical office are getting thrown out the window.  Instead companies are focusing on how they can source talent from all over the world and make sure they are a fully functional and productive team.  As a hiring professional that means that the tools used for traditional hiring in the past need to adapt as well.
 
 #### Remote-First Hiring the Workforce of Today

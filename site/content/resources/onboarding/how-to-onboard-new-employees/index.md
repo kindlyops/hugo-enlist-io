@@ -2,14 +2,11 @@
 title: How To Onboard New Employees
   Experience
 date: 2018-05-29
-description: >-
-  You've done it. You've gone ahead and hired someone for a job. They have signed the papers and are on their way.
-  What's next?
-image: #
 aliases:
   - /resources/how-to-onboard-new-employees
 ---
-
+You've done it. You've gone ahead and hired someone for a job. They have signed the papers and are on their way.
+  What's next?
 Onboarding, of course. Hiring is just a piece of the puzzle. You hire someone to get something done. How you onboard has a major role in how quickly your employees get up to speed and become productive. It also helps your employees form the right impression of your company.
 
 Even if you are a small company, good onboarding is important. It helps you inculcate a sense of ownership in your team, and that's incredibly important for businesses at any stage. Prepare yourself to be disappointed if you expect someone to hit the ground running, no matter how experienced they are.

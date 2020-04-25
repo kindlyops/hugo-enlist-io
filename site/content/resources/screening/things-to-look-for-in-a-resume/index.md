@@ -1,13 +1,10 @@
 ---
 title: Things To Look For In A Resume
 date: 2018-06-10
-description: >-
-  Finding the right person for any job is challenging. You publish a job, applications come in, you screen their resumes and move them on to the next stages. To make sure your pipeline has high quality candidates, you need to ensure your screening process is robust.
-image: #
 aliases:
   - /resources/things-to-look-for-in-a-resume
 ---
-
+Finding the right person for any job is challenging. You publish a job, applications come in, you screen their resumes and move them on to the next stages. To make sure your pipeline has high quality candidates, you need to ensure your screening process is robust.
 Evaluating a resume isn't as easy as it sounds. Especially for a small business, it is difficult to know what to look for in a resume. Let's look at some of the things that make a good resume.
 
 #### Is it relevant?

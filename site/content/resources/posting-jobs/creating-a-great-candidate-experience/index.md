@@ -1,13 +1,10 @@
 ---
 title: Creating A Great Candidate Experience
 date: 2018-11-17
-description: >-
-  Everyone who has ever applied to more than a few companies knows the drill. You prepare your resume, a great cover letter, you meticulously put together a list of companies you wish to apply to, you send those applications, and … silence. You're lucky if companies respond to you at all. Even when you do have a conversation going, many companies simply ghost on candidates.
-image: #
 aliases:
   - /resources/creating-a-great-candidate-experience
 ---
-
+Everyone who has ever applied to more than a few companies knows the drill. You prepare your resume, a great cover letter, you meticulously put together a list of companies you wish to apply to, you send those applications, and … silence. You're lucky if companies respond to you at all. Even when you do have a conversation going, many companies simply ghost on candidates.
 Saying no can be difficult, but saying nothing is definitely worse. A great candidate experience goes a long way towards building your brand. It's also not difficult to craft a great experience. Here are some tips that will help you do that:
 
 #### Be specific

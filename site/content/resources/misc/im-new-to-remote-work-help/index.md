@@ -1,10 +1,10 @@
 ---
 title: I'm New To Remote Work, Help!
-image: /img/help-im-new-to-remote-work.jpg
 date: 2020-03-16
-description: >-
- As countries all over the world are starting to shut down for everyone's safety.  Many workplaces are following suit.  If you are fortunate enough to still have a job and are now looking at working from home you may feel some sense of relief.  However, if you have never worked from home before you may also feel some anxiety.
 ---
+{{< img src="help-im-new-to-remote-work.jpg" alt="" >}}
+
+As countries all over the world are starting to shut down for everyone's safety.  Many workplaces are following suit.  If you are fortunate enough to still have a job and are now looking at working from home you may feel some sense of relief.  However, if you have never worked from home before you may also feel some anxiety.
 How will I stay free from distractions?  How can I focus on my work?  I miss my co-workers and getting out of the house, how do I stay positive?  If you have a plan to keep positive and focused during your time at home, you will feel less anxiety about what you can’t control and you will be better equipped to deal with other challenges that may come in the future.
 
 #### Kill Distractions

@@ -1,10 +1,10 @@
 ---
 title: "Personal Development:  Why HRM's Need It Too"
-image: /img/personal-development-professional-growth.jpg
 date: 2020-03-02
-description: >-
- Naturally, over time as humans we grow accustomed to our environment.  Maybe you have gone back to the town you grew up in and noticed how much it has changed.  But when you talk to someone who never left the area, they say things are just the same as they have always been.  This happens in our work environment too.
 ---
+{{< img src="personal-development-professional-growth.jpg" alt="" >}}
+
+Naturally, over time as humans we grow accustomed to our environment.  Maybe you have gone back to the town you grew up in and noticed how much it has changed.  But when you talk to someone who never left the area, they say things are just the same as they have always been.  This happens in our work environment too.
 More often than not we do not even realize it is happening.  It could be one month or one year and to us things feel the same but in reality they have changed night and day.  This can deeply affect how we develop as a professional.   We may be so busy with our day to day responsibilities that we stop putting in the time for our own personal development.  Ultimately it is up to each one of us to continue to grow and develop.  What are you doing to make sure you have the skills you need to be successful?
 
 #### How to Put a Plan Together

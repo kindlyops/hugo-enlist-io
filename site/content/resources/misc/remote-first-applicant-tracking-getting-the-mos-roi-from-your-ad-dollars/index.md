@@ -1,10 +1,10 @@
 ---
 title: "Remote-First Applicant Tracking:  Getting the Most ROI from Your Ad Dollars"
-image: /img/roi-ad-dollars.jpg
 date: 2020-01-27
-description: >-
- Applicant Tracking Software (ATS) has been around for at least 14 years.  Companies like Recruitsoft, Recruitmax, and Brassring were first in the nascent HR tech stack.  However the work force has changed dramatically since then.  Candidates no longer seek one long term employer, they seek shorter-term jobs that allow them flexibility and to grow in a dynamic workspace.
 ---
+{{< img src="roi-ad-dollars.jpg" alt="" >}}
+
+Applicant Tracking Software (ATS) has been around for at least 14 years.  Companies like Recruitsoft, Recruitmax, and Brassring were first in the nascent HR tech stack.  However the work force has changed dramatically since then.  Candidates no longer seek one long term employer, they seek shorter-term jobs that allow them flexibility and to grow in a dynamic workspace.
 Remote workforces are the new normal but surprisingly most hiring professionals today use the same exact ATS from 14 years ago.  You may not recognize Recruitsoft, Recruitmax or Brassring but that is because today they have different names.  Oracle, Taleo and Kenexa/IBM are still used for traditional hiring.  Can a tool created that long ago really be cutting edge today?  The simple answer is no.  Recruiting and hiring for the remote workforce of today requires a completely different ATS, one that can allow for remote candidates to be recruited for a project or contract multiple times a year.  An ATS that is specifically designed for recruiting a remote-first workforce.  A Remote-First ATS optimizes recruiting, curating, and maintaining an active candidate pool of remote talent.
 
 #### Active Candidate Pool for Remote Talent

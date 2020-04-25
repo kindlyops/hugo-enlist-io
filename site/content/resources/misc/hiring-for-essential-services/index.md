@@ -1,10 +1,10 @@
 ---
 title: Hiring For Essential Services
-image: /img/hiring-for-essential-services.jpg
 date: 2020-03-30
-description: >-
- During these times most of us are staying indoors and readying ourselves for our remote-work future.  For many, this is a time of introspection and preparation with the knowledge that your organization will be enduring some difficult economic times.  But for some, this is a time of growth.
 ---
+{{< img src="hiring-for-essential-services.jpg" alt="" >}}
+
+During these times most of us are staying indoors and readying ourselves for our remote-work future.  For many, this is a time of introspection and preparation with the knowledge that your organization will be enduring some difficult economic times.  But for some, this is a time of growth.
 According to [Linkedin](https://www.linkedin.com/feed/news/heres-whos-hiring-right-now-4525187/), this is a boom time for those providing essential services.  If that is you, you are probably running into all kinds of stumbling blocks as you scale your company like you never have before. Hiring at scale is entirely different from hiring for a small group of open positions. In your quest for speed, you can easily end up bringing people who don't quite fit in your company. Poor hires, as you already know, are costly, and poor hiring at this stage of a company can break it.
 
 #### Know Who You Are Hiring

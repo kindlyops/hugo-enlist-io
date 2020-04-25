@@ -1,10 +1,10 @@
 ---
 title: "Remote Workforce:  Evaluating Your Team"
-image: /img/evaluating-your-team.jpg
 date: 2020-03-09
-description: >-
- Are you responsible for a fully remote team?  What if your team is remote but you are based in the office, how can you properly evaluate your team members and be able to answer to those above you in the management chain?
 ---
+{{< img src="evaluating-your-team.jpg" alt="" >}}
+
+Are you responsible for a fully remote team?  What if your team is remote but you are based in the office, how can you properly evaluate your team members and be able to answer to those above you in the management chain?
 For years these have been concerns that have kept employers from offering remote positions, however while the work environment may have changed some of those concerns remain the same.  Whether they are spoken or not, as a manager of a fully remote team you may be having a hard time evaluating your team members.  Determining areas of improvement, coaching, counseling and even disciplinary measures can be a formidable obstacle for a fully remote workforce.  Let’s consider some seemingly small steps you can take today that will have a huge impact on your success as you manage the new remote workforce.
 
 #### Step One: Setting Clear Expectations

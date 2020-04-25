@@ -1,15 +1,12 @@
 ---
 title: "Scaling Recruitment: How To Hire When You're Growing Fast"
 date: 2017-09-05
-description: >-
-  You are probably running into all kinds of stumbling blocks as you scale your company. Hiring at scale is entirely different from hiring at the start. In your quest for speed, you can easily end up bringing people who don't quite fit in your company. Poor hires, as you already know, are costly, and poor hiring at this stage of a company can break it.
-
-  Let's look at some of the things that can help you when scaling your company.
-image: #
 aliases:
   - /resources/scaling-recruitment-how-to-hire-when-youre-growing-fast
 ---
+You are probably running into all kinds of stumbling blocks as you scale your company. Hiring at scale is entirely different from hiring at the start. In your quest for speed, you can easily end up bringing people who don't quite fit in your company. Poor hires, as you already know, are costly, and poor hiring at this stage of a company can break it.
 
+  Let's look at some of the things that can help you when scaling your company.
 #### Know who you are hiring
 
 One of the most difficult problems at scale is communication. You have different people who need to know exactly what you are looking for, the job requirements, and how they are supposed to go about hiring them.
