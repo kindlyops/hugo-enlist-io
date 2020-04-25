@@ -1,10 +1,10 @@
 ---
 title: "Contruction: Recruiting In a Time of Change"
-image: /img/recruiting-for-construction.jpg
 date: 2020-02-09
-description: >-
- Recruiting for construction hasn’t changed much in the last thirty years, but the construction industry definitely has.  Those that have changed their hiring process and their company culture to develop with the current workforce have reaped huge profit and those that haven’t have remained stagnant.
 ---
+{{< img src="recruiting-for-construction.jpg" alt="" >}}
+
+Recruiting for construction hasn’t changed much in the last thirty years, but the construction industry definitely has.  Those that have changed their hiring process and their company culture to develop with the current workforce have reaped huge profit and those that haven’t have remained stagnant.
 Companies like [Iron Mechanical](https://www.ironmechanical.com/), [Fluor Corporation](https://www.fluor.com/), [Jacobs Engineering](https://www.jacobs.com/) and [several others](https://www.zippia.com/advice/biggest-construction-companies-in-america/) are changing the way they hire and revamping their hiring process to be able to keep up with the demand.  According to the [Bureau of Labor and Statistics](https://www.bls.gov/ooh/construction-and-extraction/construction-laborers-and-helpers.htm) the construction industry is expected to grow over eleven percent in the next few years, if this is your industry what are you doing to keep up with that growth?
 
 #### Construction of Today

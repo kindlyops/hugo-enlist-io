@@ -1,10 +1,10 @@
 ---
 title: "Remote Workforce: Handling Interpersonal Problems"
-image: /img/handling-conflict-in-a-remote-team.jpg
 date: 2020-03-23
-description: >-
- While the world currently is in a state of turmoil causing many to stay home and out of sight, these serious times have caused serious problems.  Some of us, on the other hand, may have been able to see an immediate silver lining.  Working from home meant that we no longer had to deal with our arch-nemesis at work in person.
 ---
+{{< img src="handling-conflict-in-a-remote-team.jpg" alt="" >}}
+
+While the world currently is in a state of turmoil causing many to stay home and out of sight, these serious times have caused serious problems.  Some of us, on the other hand, may have been able to see an immediate silver lining.  Working from home meant that we no longer had to deal with our arch-nemesis at work in person.
 The person we dread interacting with, the individual that we feel makes our job more difficult.  Working from home may have been a quick easing of work-related tension initially, however as time goes on and our working from home continues that frustration will rear its ugly head again.  Maybe it is in the form of an email that was unnecessarily copied to our direct boss AND all our team.  Or maybe it is a complete lack of response to any of our requests for much-needed business information.  Whatever your situation is currently, conflict will come up at one point or another.  How can you effectively deal with it in a remote setting? 
 
 ### Types of Conflict 

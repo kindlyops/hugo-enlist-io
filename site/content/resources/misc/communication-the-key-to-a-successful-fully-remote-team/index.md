@@ -1,11 +1,10 @@
 ---
 title: "Communication: The Key To a Successful Fully Remote Team"
-image: /img/Communication.jpg
 date: 2020-02-17
-description: >-
- The workforce of the future will be fully remote.  Everyone working together but separate, successfully working on project after project while never actually being in the same office or even the same country.
 ---
+{{< img src="communication.jpg" alt="" >}}
 
+The workforce of the future will be fully remote.  Everyone working together but separate, successfully working on project after project while never actually being in the same office or even the same country.
 This may sound counter-intuitive to team success however many studies have found that this way of working actually helps teams become more productive.  Without the endless meetings and the demands of inter-office social politics the remote team of today find that their relationships with their co-workers are based on more than just proximity, they are based on trust. Good and effective communication is the foundation of that trust.
 
 #### Barriers to Communication

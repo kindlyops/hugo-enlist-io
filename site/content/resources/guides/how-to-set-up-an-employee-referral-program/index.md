@@ -1,13 +1,10 @@
 ---
 title: How To Set Up An Employee Referral Program
 date: 2019-05-02
-description: >-
-  Employee referral programs are a great way to bring high quality candidates to your company. Not only do employee referrals help you find better candidates, statistics show that candidates that are referred also have better retention rates.
-image: #
 aliases:
   - /resources/how-to-set-up-an-employee-referral-program
 ---
-
+Employee referral programs are a great way to bring high quality candidates to your company. Not only do employee referrals help you find better candidates, statistics show that candidates that are referred also have better retention rates.
 A lot of companies have great success with referral programs, and for good reason. A referral is a great way to start a relationship. It makes your job as a recruiter that much easier. You get to know a bit about the candidate, the candidate too gets a warm introduction to the company. You are more likely to get a positive response than perhaps any other channel.
 
 **There are several other advantages of employee referral programs, including:**
@@ -20,7 +17,7 @@ Simply put, a well-run employee referral program is a win-win for everyone. Your
 
 So, how can you set up an employee referral program? These are the key parts to setting up an effective referral program:
 
-![laptop and notepad](/img/work-out-the-details.jpeg)
+{{< img src="work-out-the-details.jpeg" alt="" >}}
 
 #### Work out the details
 

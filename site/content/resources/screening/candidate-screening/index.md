@@ -1,13 +1,10 @@
 ---
 title: How To Screen Candidates Well
 date: 2019-02-11
-description: >-
-  Screening and evaluating candidates well is key to building a good hiring pipeline. As soon as you post a job, you start getting hundreds of applications, many of them great, many of them not-so-great. It can be daunting to look at them at first, but you can use a few techniques to move through those candidates pretty quickly.
-image: #
 aliases:
   - /resources/candidate-screening
 ---
-
+Screening and evaluating candidates well is key to building a good hiring pipeline. As soon as you post a job, you start getting hundreds of applications, many of them great, many of them not-so-great. It can be daunting to look at them at first, but you can use a few techniques to move through those candidates pretty quickly.
 Before we start, it's important to note that a screening process works well only when you have a clear end goal in mind. That means a [clear, well-written, and detailed job description](/resources/posting-jobs/good-descriptions/) that lists the job's requirements is a must. If you're working with a team, it's also important to have everyone on the same page.
 
 With that in mind, let's take a look at some of the best candidate screening techniques that can help you make better, more informed decisions.
@@ -48,7 +45,7 @@ What should you look for in a cover letter? For starters: does it look like it's
 
 The cover letter is also a good opportunity to understand how a candidate communicates. Good communication skills obviously aren't all that you're looking for, but they do help a candidate stand out.
 
-![Notepad and laptop](/img/screen-well.jpg)
+{{< img src="screen-well.jpg" alt="" >}}
 
 #### Video Screening
 

@@ -1,13 +1,10 @@
 ---
 title: How To Follow Up After Interviews
 date: 2018-01-29
-description: >-
-  You have completed a few interviews. Some went well, some didn't. You now have to make a few decisions. That may take a few days. What do you do in the meantime?
-image: #
 aliases:
   - /resources/how-to-follow-up-after-interviews
 ---
-
+You have completed a few interviews. Some went well, some didn't. You now have to make a few decisions. That may take a few days. What do you do in the meantime?
 Follow up. Really. Follow up with everyone who you interviewed. It may sound impractical especially if you have a lot of people coming for an interview, but it's incredibly important to follow up. Let's look at some reasons why that is so:
 
 #### Keeping candidates engaged

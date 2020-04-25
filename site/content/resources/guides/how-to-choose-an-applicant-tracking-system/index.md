@@ -1,13 +1,10 @@
 ---
 title: How To Choose an Applicant Tracking System
 date: 2019-02-01
-description: >-
-  Choosing an applicant tracking system can be a daunting task. In fact, choosing any software is tough, but when it comes to applicant tracking systems, it's made worse by the fact that there are too many options. For every segment of the market—startups, small businesses, medium-sized businesses, enterprises—there are many options that you could potentially choose from, each with their own upsides and downsides.
-image: #
 aliases:
   - /resources/how-to-choose-an-applicant-tracking-system
 ---
-
+Choosing an applicant tracking system can be a daunting task. In fact, choosing any software is tough, but when it comes to applicant tracking systems, it's made worse by the fact that there are too many options. For every segment of the market—startups, small businesses, medium-sized businesses, enterprises—there are many options that you could potentially choose from, each with their own upsides and downsides.
 Yet, it is undeniable that an applicant tracking system can make your life easier. As you try to scale up your hiring, a good ATS can keep everything under control and ensure that both candidates and the people hiring them have a good experience.
 
 For most businesses, especially small businesses and startups, hiring often tends to be ad-hoc: you have an opening, you come up with a job description, you advertise in a few places, talk a few potential good candidates, and through a not-so-great process, you hire someone. It happens again in a few months and you follow the same process.

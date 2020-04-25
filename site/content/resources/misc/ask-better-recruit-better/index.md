@@ -1,10 +1,10 @@
 ---
 title: "Ask Better, Recruit Better"
-image: /img/ask-better-recruit-better.jpg
 date: "Apr 20, 2020"
-description: >-
- Talking with hiring managers about their immediate needs can be an exercise in frustration.  And that is partly our fault.  The world of talent acquisition has been big on buzz words and not so big on actually connecting people so important work can be done.
 ---
+{{< img src="ask-better-recruit-better.jpg" alt="" >}}
+
+Talking with hiring managers about their immediate needs can be an exercise in frustration.  And that is partly our fault.  The world of talent acquisition has been big on buzz words and not so big on actually connecting people so important work can be done.
 In addition, hiring managers may only spend about five to ten percent of their time actively recruiting.  They are not in the position to change the scenario recruiters often find themselves in, you are. If you are tired of spending most of your time selling a hiring manager on your candidate list and want to spend more time actually recruiting and connecting people with amazing organizations you have to start by asking better questions.
 
 #### Take Your Time with Discovery

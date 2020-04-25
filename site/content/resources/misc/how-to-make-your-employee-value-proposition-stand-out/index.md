@@ -1,10 +1,10 @@
 ---
 title: "How To Make Your Employee Value Proposition Standout"
-image: /img/employee-value-proposition.jpg
 date: 2020-02-24
-description: >-
- Nowadays the words “culture” and “identity” are thrown about by HR professionals all over the world, but how does this really impact your employment offering.
 ---
+{{< img src="employee-value-proposition.jpg" alt="" >}}
+
+Nowadays the words “culture” and “identity” are thrown about by HR professionals all over the world, but how does this really impact your employment offering.
 Do you assume your offer is better than your competitors?  Or do you have a compelling case that outlines a clear Employee Value Proposition (EVP) that your prospective candidate has no choice but to say yes to your offer?  With the new remote workforce things like “culture” and company “identity” will be a secondary consideration to a transparent Employee Value Proposition.  What does your organization truly provide their employees and how does that match up with your competition?
 
 #### Analyzing Your Employee Value Proposition (EVP)

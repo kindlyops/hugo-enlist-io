@@ -2,53 +2,6 @@
   <div class="mw6 center ph3 pv4">
     <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
     <div class="cms mw6">
-
-      {{ if .Params.image }}
-        {{ $path := .Params.image }}
-        {{ $src := resources.Get $path }}
-        {{/*  set image sizes, these are hardcoded for now, x dictates that images are resized to this width  */}}
-        {{ $tinyw := default "500x" }}
-        {{ $smallw := default "800x" }}
-        {{ $mediumw := default "1200x" }}
-        {{ $largew := default "1500x" }}
-
-        {{/* resize the src image to the given sizes */}}
-
-        {{ .Scratch.Set "tiny" ($src.Resize $tinyw) }}
-        {{ .Scratch.Set "small" ($src.Resize $smallw) }}
-        {{ .Scratch.Set "medium" ($src.Resize $mediumw) }}
-        {{ .Scratch.Set "large" ($src.Resize $largew) }}
-
-        {{/* add the processed images to the scratch */}}
-
-        {{ $tiny := .Scratch.Get "tiny" }}
-        {{ $small := .Scratch.Get "small" }}
-        {{ $medium := .Scratch.Get "medium" }}
-        {{ $large := .Scratch.Get "large" }}
-
-        {{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
-        {{/* set the sizes attribute to (min-width: 35em) 1200px, 100vw unless overridden in shortcode */}}
-
-        <img 
-          sizes="(min-width: 35em) 1200px, 100vw" 
-          srcset='
-          {{ if ge $src.Width "500" }}
-            {{ with $tiny.RelPermalink }}{{.}} 500w{{ end }}
-          {{ end }}
-          {{ if ge $src.Width "800" }}
-            {{ with $small.RelPermalink }}, {{.}} 800w{{ end }}
-          {{ end }}
-          {{ if ge $src.Width "1200" }}
-            {{ with $medium.RelPermalink }}, {{.}} 1200w{{ end }}
-          {{ end }}
-          {{ if ge $src.Width "1500" }}
-            {{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
-          {{ end }}' 
-          src="{{ $medium.RelPermalink }}"
-          alt="{{ .Title }}">
-      {{ end }}
-
-      <h3>{{ .Description }}</h3>
       <div class="flex justify-between grey-3">
         <p>Read in {{ .ReadingTime }} minutes</p>
       </div>

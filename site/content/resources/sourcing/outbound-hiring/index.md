@@ -1,13 +1,12 @@
 ---
 title: Outbound Hiring — Things To Keep In Mind
 date: 2019-02-01
-description: >-
-  Outbound hiring (or outbound recruitment) is a concept that has grown increasingly popular. For most companies, inbound hiring works well. You put up a job ad, you advertise it on a few job boards, you put it up on social media sites, and you usually end up with hundreds of application. Often, you will find some great people through this process. Most companies do.
-image: /img/resources-outbound-hiring.jpg
 aliases:
   - /resources/outbound-hiring
 ---
+{{< img src="resources-outbound-hiring.jpg" alt="" >}}
 
+Outbound hiring (or outbound recruitment) is a concept that has grown increasingly popular. For most companies, inbound hiring works well. You put up a job ad, you advertise it on a few job boards, you put it up on social media sites, and you usually end up with hundreds of application. Often, you will find some great people through this process. Most companies do.
 What do you do when it does not work though? What if you publish a job, advertise it, and don't quite manage to find the quality of applications you were looking for? You can try sourcing candidates yourself.
 Outbound hiring, like outbound marketing, can be terrifying. You don't know where you start, you don't know what to look for, how to approach people, or how to know if they are even interested. When you have recruitment agencies working for you, the process is simpler... they often know what they are doing, but doing it yourself can be challenging. Having said that, you can get an even better pipeline if you’re good at outbound hiring.
 
