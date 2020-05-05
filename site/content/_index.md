@@ -1,6 +1,6 @@
 ---
-title: "Hire Remote"
-subtitle: Remote Workforce ATS
+title: Hire Remote
+description: enlist is an applicant tracking system for remote teams. It helps you collaborate with your teammates, conduct better interviews, get feedback, automate processes, and hire better.
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Hire Remote.
