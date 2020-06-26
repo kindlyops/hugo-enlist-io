@@ -9,3 +9,10 @@
 
 [context.deploy-preview]
   command = "yarn build:preview"
+
+[[redirects]]
+  from = "/quiz"
+  to = "/demo"
+  status = 301
+  force = false
+  query = {path = ":path"} #  apply this rule for /old-path?path=example
