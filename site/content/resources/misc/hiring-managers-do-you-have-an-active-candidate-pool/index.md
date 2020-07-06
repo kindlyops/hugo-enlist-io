@@ -1,5 +1,5 @@
 ---
-title: "Hiring Managers Do You Have an Active Candidate Pool"
+title: "Hiring Managers Do You Have an Active Candidate Pool?"
 date: "Apr 27, 2020"
 ---
 {{< img src="active-candidate-pool.jpg" alt="" >}}
