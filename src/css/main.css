@@ -104,4 +104,5 @@ body {
 }
 html {
     background-color: var(--off-white);
+    color: var(--brown);
 }

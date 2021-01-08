@@ -5,7 +5,7 @@
 }
 
 .highlight {
-  color: var(--highlight);
+  color: var(--yellow);
 }
 
 .white {
@@ -34,6 +34,10 @@
 
 .black {
   color: var(--black);
+}
+
+.brown {
+  color: var(--brown);
 }
 
 .yellow {
