@@ -44,7 +44,7 @@ communicate:
       heading: Use email templates
       text: "Sending the same email over and over again? Templates help you save yourself some time and work."
     - image: /img/bulk-email.png
-      heading: Send multiple emails at once
+      heading: Multiple candidates
       text: "Emailing several candidates at once? Easy. Just select them, write your email (or choose a template) and hit send."
 interview:
   gray: true
@@ -52,11 +52,11 @@ interview:
   text: "Interviews make or break your pipeline. With enlist, you can conduct better, more focused interviews, and make better decisions."
   items:
     - image: img/calendar.png
-      heading: Know who's available
+      heading: Check availability
       text: "Look at others' schedule to avoid back & forth communication and clashes."
     - image: /img/instructions.png
-      heading: Prepare your interviewers
-      text: "Give interviewers the information they need to conduct better, more focused interviews."
+      heading: Prepare interviewers
+      text: "Give your interviewers the information they need to conduct better, more focused interviews."
     - image: /img/feedback.png
       heading: Score candidates
       text: "Score candidates against well-defined criteria so you can make better decisions, faster."
@@ -92,9 +92,9 @@ more:
       text: "When you bring your team members on board, you can decide who gets to see exactly what."
     - heading: "Export your data"
       text: "Export all your candidate data, including their resumes, anytime you want with a single click."
-    - heading: "Get more information with questionnaires"
+    - heading: "Get more information"
       text: "As candidates move through your pipeline, at times you may want some extra information from them. Questionnaires make that a breeze."
-    - heading: "Understand your hiring processes"
+    - heading: "Understand your hiring"
       text: "Find which sources are working the best for you, which parts of your job pipeline are slowing you down with actionable hiring reports."
 trial:
   heading: It's easy to get started.
