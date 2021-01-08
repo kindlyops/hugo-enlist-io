@@ -68,7 +68,7 @@ intro:
       items:
         - Accept applications anywhere—even on mobile
         - Ask anything you want on your application forms
-        - Customize your careers site to match your brand and colors
+        - Customize your careers site brand and colors
         - Embed jobs on your own website
         - Get even more control with enlist's API
 more:
